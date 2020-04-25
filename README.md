@@ -23,7 +23,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<img alt="Explorer SVG" src="https://github.com/Jhordy9/github_explorer/blob/master/public/assets/github.svg" />
+<img alt="Explorer SVG" src="https://github.com/Jhordy9/github_explorer/blob/master/public/assets/github.jpg" />
 
 ## :rocket: Technologies
 
