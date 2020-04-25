@@ -23,7 +23,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="Explorer SVG" src="https://github.com/Jhordy9/github_explorer/blob/master/public/assets/github.svg" />
 
 ## :rocket: Technologies
 
@@ -54,7 +54,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-github-repo-list/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Jhordy9/github_explorer/blob/master/LICENSE) for more information.
 
 ---
 
