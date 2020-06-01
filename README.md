@@ -58,7 +58,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Jhor
 
 ---
 
-Codding by Jhordy Isensee 👨‍💻 [ConectWithMe!](https://www.linkedin.com/in/jhordyisensee/)
+Codding by Jhordy Isensee 👨‍💻 [ConnectWithMe!](https://www.linkedin.com/in/jhordyisensee/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
